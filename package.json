@@ -1,0 +1,22 @@
+{
+  "name": "nanoflite.github",
+  "version": "1.0.0",
+  "description": "Generate my github profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanoflite/nanoflite.git"
+  },
+  "author": "Johan Van den Brande <johan@vandenbrande.com> (https://vandenbran.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanoflite/nanoflite/issues"
+  },
+  "homepage": "https://github.com/nanoflite/nanoflite#readme",
+  "devDependencies": {
+    "mustache": "^4.0.1"
+  }
+}
