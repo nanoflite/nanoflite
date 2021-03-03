@@ -2,15 +2,15 @@
 
 ## Some of my projects I want to highlight
 
-  * Make.Site.Trash - My static site generator
-  * BASIC
-  * CMOC-VECTREX-EXAMPLES
+  * Trash.Make.Site - [My static site generator](https://github.com/nanoflite/trash.make.site)
+  * [BASIC](https://github.com/nanoflite/basic)
+  * [CMOC-VECTREX-EXAMPLES](https://github.com/nanoflite/cmoc-vectrex-examples)
 
 ## Other places around the web where you can find me
 
-  * My site - vandenbran.de
-  * Itch.io - my games
-  * Tektonica BVBA - my company
+  * My site - [vandenbran.de](https://vandenbran.de)
+  * Itch.io - [my games](https://nanoflite.itch.io)
+  * Tektonica BVBA - [my company](https://tektonica.com)
 
 <hr>
-Generated at Wednesday, 3 March, 07:08 CET
+Generated at Wednesday, 3 March, 09:16 CET
